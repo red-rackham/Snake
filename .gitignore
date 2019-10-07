@@ -2,7 +2,7 @@ sloeber.ino.cpp
 /Release
 /libraries
 /core
-/cproject
+.cproject
 /Release
 /.settings
 .project
