@@ -5,4 +5,4 @@ You need:
 - Joystick
 - Arduino Board
 
-It's a Snake-game without boarders, enjoy!
+It's a Snake-game without borders, enjoy!
